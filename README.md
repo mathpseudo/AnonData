@@ -1,0 +1,1 @@
+An application for collecting medical data from various blood tests performed in a laboratiry while maintaining privacy.
